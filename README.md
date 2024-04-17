@@ -1,4 +1,5 @@
-### Hi there 👋
+### I make video games and mods
+- 🎥 Check out my [YouTube channel](https://www.youtube.com/@RugbugRedfern)
 
 <!--
 **RugbugRedfern/RugbugRedfern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
