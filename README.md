@@ -1,6 +1,5 @@
 ### I make video games and mods
-- 🎥 Check out my [YouTube channel](https://www.youtube.com/@RugbugRedfern)
-- 💥 Or my multiplayer FPS [Redmatch 2](https://store.steampowered.com/app/1280770/Redmatch_2/)
+Check out my [🎥 YouTube channel](https://www.youtube.com/@RugbugRedfern) or my multiplayer FPS [💥 Redmatch 2](https://store.steampowered.com/app/1280770/Redmatch_2/)
 
 <!--
 **RugbugRedfern/RugbugRedfern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
